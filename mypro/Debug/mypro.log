@@ -1,0 +1,27 @@
+﻿Build started 11/24/2017 12:53:28 PM.
+     1>Project "E:\University Work\3rd Semester\3rd semester\mypro\mypro\mypro.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\mypro.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         mypro.vcxproj -> E:\University Work\3rd Semester\3rd semester\mypro\Debug\mypro.exe
+       MetaGen:
+       Skipping target "MetaGen" because all output files are up-to-date with respect to the input files.
+       FinalizeBuildStatus:
+         Deleting file "Debug\mypro.unsuccessfulbuild".
+         Touching "Debug\mypro.lastbuildstate".
+     1>Done Building Project "E:\University Work\3rd Semester\3rd semester\mypro\mypro\mypro.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.54
